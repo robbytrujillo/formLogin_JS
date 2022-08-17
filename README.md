@@ -1,3 +1,3 @@
 #Belajar JS
 
-<h2>FORM LOGIN</h2>
+<h2>FORM LOGIN JS</h2>
